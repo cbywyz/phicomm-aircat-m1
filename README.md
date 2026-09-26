@@ -13,6 +13,12 @@
 - ✅ 数据留在局域网内，约 3 秒一次实时上报
 - ✅ **2026-09-25 实测复活成功**（Home Assistant 容器版，Python 3.13/3.14）
 
+## 相关仓库（同一系列教程）
+
+- [cbywyz/ha-midea-hualing-ac](https://github.com/cbywyz/ha-midea-hualing-ac) —— 美的/华凌空调云端接入教程（midea_auto_cloud）
+- [cbywyz/gree-yapqf-broadlink-smartir](https://github.com/cbywyz/gree-yapqf-broadlink-smartir) —— 格力空调 Broadlink + SmartIR 红外接入教程
+- [cbywyz/ha-hualing-fan-broadlink](https://github.com/cbywyz/ha-hualing-fan-broadlink) —— 华凌风扇红外接入教程（含全套遥控器编码库）
+
 ## 效果预览（2026-09-25 实拍）
 
 **电脑端仪表盘：**
@@ -268,12 +274,6 @@ sensor.wu_kong_m1_jia_quan   甲醛
 | `hcho` | 甲醛 | µg/m³ | 电化学传感器原始值 |
 
 > 甲醛数值的标定精度未经专业仪器校验，趋势参考为主。
-
-## 相关仓库（同一系列教程）
-
-- [cbywyz/ha-midea-hualing-ac](https://github.com/cbywyz/ha-midea-hualing-ac) —— 美的/华凌空调云端接入教程（midea_auto_cloud）
-- [cbywyz/gree-yapqf-broadlink-smartir](https://github.com/cbywyz/gree-yapqf-broadlink-smartir) —— 格力空调 Broadlink + SmartIR 红外接入教程
-- [cbywyz/ha-hualing-fan-broadlink](https://github.com/cbywyz/ha-hualing-fan-broadlink) —— 华凌风扇红外接入教程（含全套遥控器编码库）
 
 ## 致谢与参考
 
