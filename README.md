@@ -18,7 +18,7 @@
 - [cbywyz/ha-midea-hualing-ac](https://github.com/cbywyz/ha-midea-hualing-ac) —— 美的/华凌空调云端接入教程（midea_auto_cloud）
 - [cbywyz/gree-yapqf-broadlink-smartir](https://github.com/cbywyz/gree-yapqf-broadlink-smartir) —— 格力空调 Broadlink + SmartIR 红外接入教程
 - [cbywyz/ha-hualing-fan-broadlink](https://github.com/cbywyz/ha-hualing-fan-broadlink) —— 华凌风扇红外接入教程（含全套遥控器编码库）
-- [cbywyz/ha-xiaomi-tv-kids-lock](https://github.com/cbywyz/ha-xiaomi-tv-kids-lock) —— 小米电视**家长管控**教程（HA 自动化）：音量上限锁 + 信号源锁定 + 儿童观看定时锁，管控放在电视外面，没有密码可破。
+- [cbywyz/ha-tv-kids-lock](https://github.com/cbywyz/ha-tv-kids-lock) —— 电视**家长管控**教程（HA 自动化，任意智能电视通用，以小米电视为例）：音量上限锁 + 信号源锁定 + 儿童观看定时锁，管控放在电视外面，没有密码可破。
 
 ## 效果预览（2026-09-25 实拍）
 
